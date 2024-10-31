@@ -1,0 +1,3 @@
+Using GitHub’s Search API, profiles of Moscow-based users with over 50 followers were collected. Missing data fields were replaced with empty strings for consistency. The final user and repository data were saved in users.csv and repositories.csv for analysis.
+An interesting finding from the analysis is that users gain about 0.212 additional followers for every extra public repository they create. This shows that having more projects can help users get noticed and attract more followers on GitHub, making it beneficial to showcase their work.
+Developers should consider using Pascal for their projects, as it has the highest average number of stars per repository. 
